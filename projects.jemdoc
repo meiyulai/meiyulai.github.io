@@ -1,0 +1,22 @@
+# jemdoc: menu{MENU}{projects.html} 
+= Projects
+
+. *Relapse-related genes and their interactinos in breast cancer* \n
+  Analyzed gene expression datasets to understand biological pathways and decide treatment strategy. We utilized the logistic-accelerated failure time (AFT) mixture regression model (Chen et al., 2013) to analyze the distant metastasis free survival (DMFS) time associated with gene expression levels.
+. *Association between NGS-SNP and overall survival in HR-positive breast cancer patients* \n
+  Detected significantly related SNPs in single-locus association analysis with logistic regression test. The results of survival analysis revealed the close association SNPs with survival of breast cancer patients.
+. *Statistical methodology development* \n
+  Developed a simulation-based approach and applied to the clinical trial of Polycystic Ovary Syndrome (PCOS).
+. *PCOS trial [https://clinicaltrials.gov/ct2/show/NCT00172523 NCT00172523]* \n
+  Contributed to design clinical trial protocols and analyzed clinical data.
+. *GENIUS study [https://clinicaltrials.gov/ct2/show/NCT01579630 NCT01579630]* \n
+  Analyzed survival data in a multiple regression of the Cox model. The results were presented in American Society of Clinical Oncology (ASCO) and World Conference on Lung Cancer (WCLC) in 2015.
+. *Circulating tumor cells with colorectal cancer* \n
+  Determined an optimal cut-off point in ROC analysis as the best experimental condition for the clinical study.
+. *In-house website construction for calculating sample sizes* \n
+  Worked with colleagues on building an in-house website for sample size calculations in a variety of designs.
+
+
+
+  == Reference
+  . Chen, C. H., Tsay, Y. C., Wu, Y. C. and Horng, C. F. Logistic-AFT location-scale mixture regression models with non-susceptibility for left-truncated and general interval-censored data. Stat. Med. 32, 4285–4305 (2013). [https://doi.org/10.1002/sim.5845 DOI:10.1002/sim.5845]

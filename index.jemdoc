@@ -1,0 +1,62 @@
+# jemdoc: menu{MENU}{index.html} 
+= Mei-Yu Lai
+
+*Mei-Yu Lai* \n
+MSE student, Department of Biomedical Engineering \n
+Johns Hopkins Whiting School of Engineering
+
+Contact: [mlai22@jhu.edu mlai22(at)jhu(dot)edu]
+
+
+== About Me
+I am currently an MSE student at the [https://www.bme.jhu.edu Department of Biomedical Engineering], Johns Hopkins University.
+I received my bachelor's degree in Applied Mathematics from Chung Yuang Christian University and Master's degree in Biometry from National Taiwan University in Taiwan. After graduation, I went to join [http://www.stat.sinica.edu.tw/chchen/ Chen-Hsin Chen]'s Lab as a research assistant at [http://www.stat.sinica.edu.tw/statnewsite/?locale=en_US Academia Sinica]-Taiwan's premier research institution. I primarily helped with the development and design of clinical trials and developed statistical methodologies. For the past two years, I had been involved in projects analyzing gene expression datasets and SNPs data to identify cancer risk associated with susceptible genes.
+
+My work has focused on computational biology problems. In particular, I have worked on the analysis of mRNA expression datasets. I am interested in integrating statistical models and computational methods to understand the biological mechanism that leads to a disease.
+
+== News
+- (December, 2020) Our paper "High BRCA1 gene expression increases the risk of early onset distant metastasis in ER+ breast cancers" is submitted. I contributed to the statistical report in our manuscript and carried out cure model analysis in the breast cancer study.
+
+- (Jan, 2018) Our work on 
+[pub_1.pdf Polycystic Ovary Syndrome Study] is published.
+My work on the statistical analysis results reveal that there are differences in treatment response to metformin between different BMI/testosterone phenotypes. 
+In the longitudinal design, the repeated measurements obtained during follow-up, and generalized estimation equation models provide valuable information regarding how each clinical parameter changes in relation to the duration of treatment.
+
+== Education
+- MSE student in Biomedical Engineering, 2022 (expected) \n
+    The Johns Hopkins University, Baltimore, MD, USA \n
+
+- MS in Biometry, 2012 \n
+    National Taiwan University, Taiwan \n  
+    -- Thesis: Interval estimation for the bilateral conformance proportion under the linear regression model
+
+- BS in Applied Mathematics, 2010 \n
+    Chung Yuan Christian University, Taiwan \n
+    -- Honors Thesis: Comparison of imputation methods for missing values in longitudinal data
+
+== Research Experience
+- *Institute of Statistical Science, Academia Sinica*, Taiwan \n
+    Research Assistant
+    -- Analyzed clinical and genomic data
+    -- Developed statistcal methodologies
+    -- Worked with colleagues on building an in-house website for sample size calculations
+    -- Contributed to design clinical trial protocols
+
+[projects.html Project list]. 
+
+== Research Interests
+- Statistical modeling
+- Machine learning
+- Statistical methods for the analysis of high-throughput genomic data 
+- Computational genomics
+
+== Publications
+. Chang HJ, Yang UC, *Lai MY*, Chen CH, and Fann YC. High BRCA1 gene expression increases the risk of early onset distant metastasis in ER+ breast cancers. (submited)
+. Yang PK, Hsu CY, Chen MJ, *Lai MY*, Li ZR, Chen CH, Chen SU, and Ho HN. The efficacy of 24-month metformin for improving menses, hormone and metabolic profiles in polycystic ovary syndrome. The Journal of Clinical Endocrinology and Metabolism 2018; 103(3):890-899. \n 
+PMID: 29325133, DOI: [https://doi.org/10.1210/jc.2017-01739 10.1210/jc.2017-01739].
+
+== Awards
+- College Student Research Award, 2010
+- Academic Excellence Award, 2006-2010
+
+
